@@ -1,0 +1,1 @@
+This project features an AI-powered virtual keyboard using finger recognition for keystrokes, enabling users to type without physical input devices.
